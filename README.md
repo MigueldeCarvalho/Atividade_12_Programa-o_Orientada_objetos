@@ -1,2 +1,2 @@
-# Atividade_12_Programaçãoo_Orientada_objetos
+# Atividade_12_Programação_Orientada_objetos
 Marisangela
